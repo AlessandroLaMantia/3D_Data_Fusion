@@ -1,0 +1,691 @@
+{
+  "best_frame": 80,
+  "frames_analyzed": 32,
+  "frames_with_detections": 26,
+  "frames_with_distances": 26,
+  "records": [
+    {
+      "frame": 0,
+      "projected_points": 20478,
+      "detections": [
+        {
+          "box": [
+            1099,
+            153,
+            92,
+            183
+          ],
+          "score": 0.49026667908765376,
+          "label": "Pedone",
+          "points_in_box": 898,
+          "points_used": 898,
+          "depth_m": 11.715607295298089,
+          "range_m": 14.445152379932725,
+          "iqr_m": 10.331332394027918
+        }
+      ],
+      "valid_distances": 1
+    },
+    {
+      "frame": 5,
+      "projected_points": 20601,
+      "detections": [],
+      "valid_distances": 0
+    },
+    {
+      "frame": 10,
+      "projected_points": 20343,
+      "detections": [],
+      "valid_distances": 0
+    },
+    {
+      "frame": 15,
+      "projected_points": 20403,
+      "detections": [
+        {
+          "box": [
+            216,
+            86,
+            77,
+            153
+          ],
+          "score": 0.16981487022712827,
+          "label": "Pedone",
+          "points_in_box": 485,
+          "points_used": 461,
+          "depth_m": 35.045045337046346,
+          "range_m": 39.2471338688275,
+          "iqr_m": 11.519844516270847
+        }
+      ],
+      "valid_distances": 1
+    },
+    {
+      "frame": 20,
+      "projected_points": 20331,
+      "detections": [],
+      "valid_distances": 0
+    },
+    {
+      "frame": 25,
+      "projected_points": 20314,
+      "detections": [],
+      "valid_distances": 0
+    },
+    {
+      "frame": 30,
+      "projected_points": 20344,
+      "detections": [],
+      "valid_distances": 0
+    },
+    {
+      "frame": 35,
+      "projected_points": 20383,
+      "detections": [
+        {
+          "box": [
+            606,
+            142,
+            101,
+            203
+          ],
+          "score": 0.3611412774771452,
+          "label": "Pedone",
+          "points_in_box": 1787,
+          "points_used": 1649,
+          "depth_m": 9.472136821819598,
+          "range_m": 9.634977447629614,
+          "iqr_m": 15.581870800051309
+        }
+      ],
+      "valid_distances": 1
+    },
+    {
+      "frame": 40,
+      "projected_points": 20261,
+      "detections": [
+        {
+          "box": [
+            577,
+            140,
+            100,
+            201
+          ],
+          "score": 0.9050890885991976,
+          "label": "Pedone",
+          "points_in_box": 1798,
+          "points_used": 1793,
+          "depth_m": 11.311478535003813,
+          "range_m": 11.434594930531064,
+          "iqr_m": 23.360709795986164
+        }
+      ],
+      "valid_distances": 1
+    },
+    {
+      "frame": 45,
+      "projected_points": 20205,
+      "detections": [
+        {
+          "box": [
+            576,
+            141,
+            106,
+            211
+          ],
+          "score": 1.9276970336213708,
+          "label": "Pedone",
+          "points_in_box": 1979,
+          "points_used": 1965,
+          "depth_m": 11.58684536333193,
+          "range_m": 11.666908680807914,
+          "iqr_m": 18.562639081497732
+        }
+      ],
+      "valid_distances": 1
+    },
+    {
+      "frame": 50,
+      "projected_points": 20173,
+      "detections": [
+        {
+          "box": [
+            607,
+            148,
+            98,
+            196
+          ],
+          "score": 1.1890499451146752,
+          "label": "Pedone",
+          "points_in_box": 1754,
+          "points_used": 1567,
+          "depth_m": 9.750767471700339,
+          "range_m": 9.906694851587842,
+          "iqr_m": 10.02977590503017
+        }
+      ],
+      "valid_distances": 1
+    },
+    {
+      "frame": 55,
+      "projected_points": 20171,
+      "detections": [
+        {
+          "box": [
+            665,
+            147,
+            97,
+            194
+          ],
+          "score": 1.1346173584461212,
+          "label": "Pedone",
+          "points_in_box": 1723,
+          "points_used": 1704,
+          "depth_m": 12.040532807630802,
+          "range_m": 12.281891120924804,
+          "iqr_m": 17.599832558368576
+        }
+      ],
+      "valid_distances": 1
+    },
+    {
+      "frame": 60,
+      "projected_points": 20248,
+      "detections": [
+        {
+          "box": [
+            753,
+            150,
+            91,
+            181
+          ],
+          "score": 1.2784232944250107,
+          "label": "Pedone",
+          "points_in_box": 1444,
+          "points_used": 1423,
+          "depth_m": 11.80289466997232,
+          "range_m": 12.378994900667161,
+          "iqr_m": 15.487566468528374
+        }
+      ],
+      "valid_distances": 1
+    },
+    {
+      "frame": 65,
+      "projected_points": 20386,
+      "detections": [
+        {
+          "box": [
+            844,
+            145,
+            96,
+            191
+          ],
+          "score": 1.2173663850408047,
+          "label": "Pedone",
+          "points_in_box": 1452,
+          "points_used": 1452,
+          "depth_m": 11.443778073394892,
+          "range_m": 12.501788131552095,
+          "iqr_m": 15.451489336006835
+        }
+      ],
+      "valid_distances": 1
+    },
+    {
+      "frame": 70,
+      "projected_points": 20445,
+      "detections": [
+        {
+          "box": [
+            922,
+            142,
+            101,
+            202
+          ],
+          "score": 2.0299358170013875,
+          "label": "Pedone",
+          "points_in_box": 1431,
+          "points_used": 1429,
+          "depth_m": 11.850887612942145,
+          "range_m": 13.601657459704935,
+          "iqr_m": 14.588346532186804
+        }
+      ],
+      "valid_distances": 1
+    },
+    {
+      "frame": 75,
+      "projected_points": 20426,
+      "detections": [
+        {
+          "box": [
+            970,
+            146,
+            94,
+            187
+          ],
+          "score": 2.022543516010046,
+          "label": "Pedone",
+          "points_in_box": 1164,
+          "points_used": 1164,
+          "depth_m": 11.608693454394237,
+          "range_m": 13.684743749892071,
+          "iqr_m": 25.49244375461928
+        }
+      ],
+      "valid_distances": 1
+    },
+    {
+      "frame": 80,
+      "projected_points": 20298,
+      "detections": [
+        {
+          "box": [
+            963,
+            137,
+            101,
+            202
+          ],
+          "score": 2.1865970878861845,
+          "label": "Pedone",
+          "points_in_box": 1346,
+          "points_used": 1346,
+          "depth_m": 14.530377456695689,
+          "range_m": 17.053956534117624,
+          "iqr_m": 24.7552743098256
+        },
+        {
+          "box": [
+            266,
+            11,
+            74,
+            148
+          ],
+          "score": 0.6756804038304836,
+          "label": "Pedone",
+          "points_in_box": 97,
+          "points_used": 64,
+          "depth_m": 18.94198945010803,
+          "range_m": 20.699435906149297,
+          "iqr_m": 1.2971085229354529
+        }
+      ],
+      "valid_distances": 2
+    },
+    {
+      "frame": 85,
+      "projected_points": 19974,
+      "detections": [
+        {
+          "box": [
+            934,
+            152,
+            86,
+            172
+          ],
+          "score": 1.993159820791334,
+          "label": "Pedone",
+          "points_in_box": 1085,
+          "points_used": 1085,
+          "depth_m": 14.002186979111261,
+          "range_m": 16.07968346216796,
+          "iqr_m": 24.188902313200074
+        }
+      ],
+      "valid_distances": 1
+    },
+    {
+      "frame": 90,
+      "projected_points": 19637,
+      "detections": [
+        {
+          "box": [
+            889,
+            133,
+            92,
+            183
+          ],
+          "score": 2.263439052621834,
+          "label": "Pedone",
+          "points_in_box": 1136,
+          "points_used": 1136,
+          "depth_m": 15.043843915195298,
+          "range_m": 16.74049758704169,
+          "iqr_m": 25.711435052632645
+        }
+      ],
+      "valid_distances": 1
+    },
+    {
+      "frame": 95,
+      "projected_points": 19295,
+      "detections": [
+        {
+          "box": [
+            856,
+            158,
+            82,
+            164
+          ],
+          "score": 0.962580386956688,
+          "label": "Pedone",
+          "points_in_box": 831,
+          "points_used": 725,
+          "depth_m": 11.409010396099776,
+          "range_m": 12.319380674943579,
+          "iqr_m": 7.595522251793966
+        },
+        {
+          "box": [
+            482,
+            158,
+            72,
+            145
+          ],
+          "score": 0.887954092817381,
+          "label": "Pedone",
+          "points_in_box": 956,
+          "points_used": 956,
+          "depth_m": 11.580174324718342,
+          "range_m": 11.716919317109879,
+          "iqr_m": 2.4729772934515886
+        }
+      ],
+      "valid_distances": 2
+    },
+    {
+      "frame": 100,
+      "projected_points": 18995,
+      "detections": [
+        {
+          "box": [
+            831,
+            156,
+            76,
+            152
+          ],
+          "score": 1.893149572526454,
+          "label": "Pedone",
+          "points_in_box": 741,
+          "points_used": 722,
+          "depth_m": 12.359723282190826,
+          "range_m": 13.312452956843904,
+          "iqr_m": 8.660800811418968
+        },
+        {
+          "box": [
+            340,
+            156,
+            76,
+            152
+          ],
+          "score": 0.8520213500596583,
+          "label": "Pedone",
+          "points_in_box": 923,
+          "points_used": 923,
+          "depth_m": 9.288330932338456,
+          "range_m": 9.844901474492302,
+          "iqr_m": 2.478650920238737
+        }
+      ],
+      "valid_distances": 2
+    },
+    {
+      "frame": 105,
+      "projected_points": 18818,
+      "detections": [
+        {
+          "box": [
+            813,
+            158,
+            73,
+            146
+          ],
+          "score": 1.867519553983584,
+          "label": "Pedone",
+          "points_in_box": 827,
+          "points_used": 758,
+          "depth_m": 12.95716900934151,
+          "range_m": 13.72564088145493,
+          "iqr_m": 18.266760568127822
+        }
+      ],
+      "valid_distances": 1
+    },
+    {
+      "frame": 110,
+      "projected_points": 19147,
+      "detections": [
+        {
+          "box": [
+            796,
+            160,
+            71,
+            141
+          ],
+          "score": 1.775855434127152,
+          "label": "Pedone",
+          "points_in_box": 889,
+          "points_used": 889,
+          "depth_m": 16.288646322173356,
+          "range_m": 17.360858370374146,
+          "iqr_m": 19.107122816750636
+        }
+      ],
+      "valid_distances": 1
+    },
+    {
+      "frame": 115,
+      "projected_points": 19185,
+      "detections": [
+        {
+          "box": [
+            758,
+            149,
+            78,
+            156
+          ],
+          "score": 0.47113190521486104,
+          "label": "Pedone",
+          "points_in_box": 1108,
+          "points_used": 1108,
+          "depth_m": 17.913006947662566,
+          "range_m": 18.440341278624018,
+          "iqr_m": 18.330283865275923
+        }
+      ],
+      "valid_distances": 1
+    },
+    {
+      "frame": 120,
+      "projected_points": 19571,
+      "detections": [],
+      "valid_distances": 0
+    },
+    {
+      "frame": 125,
+      "projected_points": 19595,
+      "detections": [
+        {
+          "box": [
+            621,
+            159,
+            68,
+            136
+          ],
+          "score": 0.974485716316849,
+          "label": "Pedone",
+          "points_in_box": 877,
+          "points_used": 841,
+          "depth_m": 15.565378249149262,
+          "range_m": 15.693211212794898,
+          "iqr_m": 10.427422247487094
+        },
+        {
+          "box": [
+            438,
+            150,
+            69,
+            138
+          ],
+          "score": 0.8541876152157784,
+          "label": "Pedone",
+          "points_in_box": 709,
+          "points_used": 698,
+          "depth_m": 19.500282968929028,
+          "range_m": 19.94854951525273,
+          "iqr_m": 15.550867649034597
+        }
+      ],
+      "valid_distances": 2
+    },
+    {
+      "frame": 130,
+      "projected_points": 19302,
+      "detections": [
+        {
+          "box": [
+            538,
+            164,
+            67,
+            134
+          ],
+          "score": 0.6601704636123031,
+          "label": "Pedone",
+          "points_in_box": 887,
+          "points_used": 769,
+          "depth_m": 14.708921262693327,
+          "range_m": 14.890246469513812,
+          "iqr_m": 9.913762969327069
+        }
+      ],
+      "valid_distances": 1
+    },
+    {
+      "frame": 135,
+      "projected_points": 18804,
+      "detections": [
+        {
+          "box": [
+            496,
+            155,
+            72,
+            144
+          ],
+          "score": 0.9591799166519195,
+          "label": "Pedone",
+          "points_in_box": 980,
+          "points_used": 907,
+          "depth_m": 15.224036197210046,
+          "range_m": 15.440036845873266,
+          "iqr_m": 17.276887285772816
+        }
+      ],
+      "valid_distances": 1
+    },
+    {
+      "frame": 140,
+      "projected_points": 17597,
+      "detections": [
+        {
+          "box": [
+            504,
+            142,
+            76,
+            152
+          ],
+          "score": 1.7624888431746513,
+          "label": "Pedone",
+          "points_in_box": 926,
+          "points_used": 761,
+          "depth_m": 13.573395730392505,
+          "range_m": 13.657377337457575,
+          "iqr_m": 9.834878563091552
+        }
+      ],
+      "valid_distances": 1
+    },
+    {
+      "frame": 145,
+      "projected_points": 17241,
+      "detections": [
+        {
+          "box": [
+            519,
+            122,
+            88,
+            176
+          ],
+          "score": 2.5788005411741324,
+          "label": "Pedone",
+          "points_in_box": 1045,
+          "points_used": 919,
+          "depth_m": 13.948939397545487,
+          "range_m": 14.059705254125149,
+          "iqr_m": 10.36008467402533
+        }
+      ],
+      "valid_distances": 1
+    },
+    {
+      "frame": 150,
+      "projected_points": 17815,
+      "detections": [
+        {
+          "box": [
+            549,
+            128,
+            84,
+            168
+          ],
+          "score": 2.61195383570157,
+          "label": "Pedone",
+          "points_in_box": 1003,
+          "points_used": 891,
+          "depth_m": 13.49557027158225,
+          "range_m": 13.602483199792232,
+          "iqr_m": 10.971148097684166
+        },
+        {
+          "box": [
+            1017,
+            134,
+            94,
+            189
+          ],
+          "score": 0.9155463131610304,
+          "label": "Pedone",
+          "points_in_box": 1069,
+          "points_used": 1047,
+          "depth_m": 9.118271842200624,
+          "range_m": 11.04190680666102,
+          "iqr_m": 1.3547450124895413
+        }
+      ],
+      "valid_distances": 2
+    },
+    {
+      "frame": 153,
+      "projected_points": 17589,
+      "detections": [
+        {
+          "box": [
+            561,
+            137,
+            81,
+            162
+          ],
+          "score": 2.1677194545045495,
+          "label": "Pedone",
+          "points_in_box": 949,
+          "points_used": 858,
+          "depth_m": 13.65532983844139,
+          "range_m": 13.769057097667908,
+          "iqr_m": 10.106298593521963
+        }
+      ],
+      "valid_distances": 1
+    }
+  ]
+}

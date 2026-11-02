@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.py[cod]
+*.log
+.pytest_cache/
+.DS_Store
+Thumbs.db
+
+# Local delivery archive; the repository contains its individual files.
+Consegna Progetto 2.zip

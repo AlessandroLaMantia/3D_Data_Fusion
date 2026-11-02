@@ -1,0 +1,41 @@
+{
+  "frame": "0000000080",
+  "sequence": "C:\\Users\\LENOVO\\Desktop\\Università Parma\\Esami\\2° Anno\\1° Semestre\\3D Perception, Learning-Based Data Fusion\\Progetti\\Progetto 2\\data\\2011_09_26\\2011_09_26_drive_0005_sync",
+  "detector": "hog",
+  "depth_definition": "Z Camera 2 rettificata, metri; non distanza euclidea",
+  "lidar_points": 123801,
+  "projected_points": 20298,
+  "colored_points": 20248,
+  "detections": [
+    {
+      "box": [
+        963,
+        137,
+        101,
+        202
+      ],
+      "score": 2.1865970878861845,
+      "label": "Pedone",
+      "points_in_box": 1346,
+      "points_used": 1346,
+      "depth_m": 14.530377456695689,
+      "range_m": 17.053956534117624,
+      "iqr_m": 24.7552743098256
+    },
+    {
+      "box": [
+        266,
+        11,
+        74,
+        148
+      ],
+      "score": 0.6756804038304836,
+      "label": "Pedone",
+      "points_in_box": 97,
+      "points_used": 64,
+      "depth_m": 18.94198945010803,
+      "range_m": 20.699435906149297,
+      "iqr_m": 1.2971085229354529
+    }
+  ]
+}

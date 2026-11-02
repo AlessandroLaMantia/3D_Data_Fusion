@@ -1,0 +1,2 @@
+-r requirements-open3d.txt
+plotly>=5,<8
